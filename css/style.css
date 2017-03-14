@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=roboto');
+* {
+    color: #840435;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: brown
+}
+
+.btn:hover {
+    background-color: red
+}
+
+.btn:active {
+    background-color: brown
+}
+
+.header-titile {
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 1px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 0 0 rgba
+}
